@@ -4,7 +4,7 @@ Welcome to the DevDrift organization on GitHub! We are a team of developers pass
 
 ## About Us
 
-At Game Integrations, we specialize in building integrations that bring added functionality to games. Here are some key areas we focus on:
+At DevDrift, we specialize in building integrations that bring added functionality to games. Here are some key areas we focus on:
 
 - **Game Overlays**: We develop overlays specifically designed for tournaments. These overlays provide real-time information, scores, and statistics, enhancing the viewing experience for both participants and spectators.
 
